@@ -1,5 +1,10 @@
 package losSauces.daw.edd;
 
+/**
+ * Clase de prueba de Eclipse con GitHub
+ * 
+ * @author alumno
+ */
 public class App
 {
 	public static void main(String[] args)
